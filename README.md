@@ -20,7 +20,7 @@ Dentro da pasta **AcademiaAgenda**
 - Agendamento (AlunoId, AulaId, CriadoEm)
 
 ## Regras
-- Plano Mensal = 12, Trimestral = 20, Anual = 30 agendamentos/mês
+- Agendamentos/mês
 - Aula não ultrapassa a capacidade
 - Contagem mensal considera o mês da data da aula
 
